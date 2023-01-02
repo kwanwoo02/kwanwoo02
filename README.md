@@ -2,7 +2,6 @@
 
 <!--
 **kwanwoo02/kwanwoo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=kwanwoo&fontAlign=70&rotate=13&fontAlignY=25&desc=python%20artificial%20intelligence%20developer.&descAlign=70.&descAlignY=44)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwanwoo02&show_icons=true&theme=radical)
