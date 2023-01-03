@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=kwanwoo&fontAlign=70&rotate=13&fontAlignY=25&desc=python%20artificial%20intelligence%20developer.&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=kwanwoo&fontAlign=70&rotate=13&fontAlignY=25&desc=python%20Artificial%20Intelligence%20Developer.&descAlign=70.&descAlignY=44)
 
 <div align=center>
 <!--소개-->
