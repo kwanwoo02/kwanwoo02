@@ -34,7 +34,7 @@ I am trying to become a nice developer😎
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![PyTorchLightning](https://img.shields.io/badge/PyTorchLightning-792EE5?style=for-the-badge&logo=PyTorchLightning&logoColor=white)
+![PyTorchLightning](https://img.shields.io/badge/lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwanwoo02&show_icons=true&theme=radical)
