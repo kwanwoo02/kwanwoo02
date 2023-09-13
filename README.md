@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=kwanwoo&fontAlign=70&rotate=13&fontAlignY=25&desc=python%20Artificial%20Intelligence%20Developer.&descAlign=70.&descAlignY=44)
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=kwanwoo's%20Repo&fontSize=90&animation=fadeIn&desc=Hello%20I'm%20Intelligence%20Developer!!&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=kwanwoo's%20Repo&fontSize=90&animation=fadeIn&desc=Hello%20I'm%20AI%20Developer!!&descAlignY=80)
 
 <div align=center>
 <!--소개-->
