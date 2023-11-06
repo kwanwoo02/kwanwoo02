@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--소개-->
 
 ## Introduction :raised_hands:
-Hi, my name is Kwanwoo Moon. I am a python developer.   
+Hi, my name is Kwanwoo Moon. I am a Computer Vision & Deep Learning Engineer .   
 I am trying to become a nice developer😎
 <br/><br/>
  
