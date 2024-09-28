@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <!--소개-->
 
 ## Introduction :raised_hands:
-Hi, my name is Kwanwoo Moon. I am a Computer Vision & Deep Learning Engineer .   
+Hi, my name is Kwanwoo Moon. I am a deep learning engineer.    
+I can do computer vision and natural language processing.   
 I am trying to become a nice developer😎
 <br/><br/>
  
